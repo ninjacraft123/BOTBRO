@@ -824,4 +824,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("token Your Bot Here");  // توكن حقق
+client.login("NDAxNDQxMzM0ODY0NTEwOTg2.DuRn7A.xQjWGB6SHTddITFmi9QrbqU0TWk");  // توكن حقق
